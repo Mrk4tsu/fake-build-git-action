@@ -1,0 +1,14 @@
+# NRO source is downloaded only on the temporary build machine.
+/Assets/
+/Packages/
+/ProjectSettings/
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+/artifacts/
+/build/
+/output/
+__pycache__/
